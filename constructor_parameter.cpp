@@ -14,7 +14,7 @@ class car{
         year=z;
     }
     void display(){
-cout<<"car details :"<<brand<<'\n'<<model<<'\n'<<year<<endl;
+cout<<"car details :"<<brand<<'\n'<<model<<'\n'<<year<<'\n';
    
 }
 };
